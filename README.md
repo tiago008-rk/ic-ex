@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Projeto de Introdução à Computação - Versão B
+=======
+# Projeto de Introdução à Computação - Versão A
+>>>>>>> 7d76a68ab5d7b1dccb36065772e7d66d1973feca
 
 Projeto individual para aprender Git e GitHub.
 # Projeto de Introdução à Computação
