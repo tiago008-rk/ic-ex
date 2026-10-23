@@ -4,3 +4,8 @@ Projeto individual para aprender Git e GitHub.
 # Projeto de Introdução à Computação
 
 Trabalho de Tiago Matias.
+
+## Funcionalidades
+
+Controlo de versões com Git.
+Sincronização do projeto com GitHub.
