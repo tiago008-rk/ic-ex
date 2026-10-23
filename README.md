@@ -9,3 +9,7 @@ Trabalho de Tiago Matias.
 
 Controlo de versões com Git.
 Sincronização do projeto com GitHub.
+
+## O que aprendi
+
+Aprendi a criar commits e a sincronizar duas cópias de um repositório.
