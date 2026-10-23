@@ -1,4 +1,4 @@
-# Projeto de Introdução à Computação
+# Projeto de Introdução à Computação - Versão A
 
 Projeto individual para aprender Git e GitHub.
 # Projeto de Introdução à Computação
